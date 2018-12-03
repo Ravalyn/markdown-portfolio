@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Tyra Earl
+##### Customer Service | Technical Support | Integrations | Knowledge Base
